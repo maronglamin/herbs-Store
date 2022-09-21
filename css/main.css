@@ -1,0 +1,35 @@
+.login-container {
+    width: 90%;
+    max-width: 400px;
+    border-radius: 10px;
+    background-color: #fff;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.mt{margin-top: 40px;}
+.mb{margin-bottom: 40px;}
+.ms{margin: 0 15px 0 15px;}
+
+img.herb-img{
+    width: 30rem;
+    height: 35rem;
+    border-radius: 15px;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+img.herb-img-detail{
+    width: 35rem;
+    height: 26rem;
+    border-radius: 15px;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
